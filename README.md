@@ -1,4 +1,4 @@
-# Dimitriy Leontev - IT Support Professional
+# Dimitriy Leontev - IT Professional
 
 👋 Hello! I'm Dimitriy Leontev, an IT professional with a passion for technology and a drive to continuously learn and improve. 💻
 
