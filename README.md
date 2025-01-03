@@ -22,15 +22,15 @@ TBD
 
 ## Certifications
 
-* CompTIA A+ (2024)
-* CompTIA Network+ (2024)
-* CompTIA Security+ (2024)
-* Microsoft Certified: Azure Fundamentals (2024)
-* Microsoft 365 Certified: Fundamentals (2024)
-* Microsoft Certified: Security, Compliance, and Identity Fundamentals (2024)
-* AWS Certified Cloud Practitioner (2024)
-* Google Cloud Digital Leader (2024)
-* **Cisco Certified Network Associate (In progress, 2025)**
+* CompTIA A+
+* CompTIA Network+
+* CompTIA Security+
+* Microsoft Certified: Azure Fundamentals
+* Microsoft 365 Certified: Fundamentals
+* Microsoft Certified: Security, Compliance, and Identity Fundamentals
+* AWS Certified Cloud Practitioner
+* Google Cloud Digital Leader
+* **Cisco Certified Network Associate (In progress)**
 
 ## Contact
 
