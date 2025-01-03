@@ -15,8 +15,7 @@ TBD
 * **Microsoft Technologies:** Active Directory, Microsoft 365, Entra ID, Microsoft Office Suite, SharePoint, Teams
 * **Networking:** TCP/IP, DNS, DHCP, Firewalls, VPNs
 * **Scripting:** PowerShell, Bash, Python
-* **Troubleshooting:** Hardware, Software, Network connectivity
-* **Security:** Antivirus, Firewalls, Intrusion Detection
+* **Troubleshooting:** Hardware, Software, Network Connectivity
 * **Other:** ServiceNow, Jira, SQL, Virtualization
 * **Soft Skills:** Communication, Empathy, Active Listening, Teamwork, Problem-solving
 
