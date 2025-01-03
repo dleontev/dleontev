@@ -16,7 +16,6 @@ On my GitHub profile, you'll find a collection of my personal projects, scripts,
 * **Networking:** TCP/IP, DNS, DHCP, Firewalls, VPNs
 * **Scripting:** PowerShell, Bash, Python
 * **Troubleshooting:** Hardware, Software, Network Connectivity
-* **Other:** ServiceNow, Jira, SQL, Virtualization
 * **Soft Skills:** Communication, Empathy, Active Listening, Teamwork, Problem-solving
 
 ## 🏅 Certifications 
