@@ -13,11 +13,11 @@ TBD
 * **Operating Systems:** Windows 10/11, Windows Server, macOS, Linux
 * **Cloud Computing:** AWS, Azure, GCP
 * **Microsoft Technologies:** Active Directory, Microsoft 365, Entra ID/Azure AD, Microsoft Office Suite, SharePoint, Teams
-* **Networking:** TCP/IP, DNS, DHCP, Firewalls, VPNs (These are implied from your CompTIA Network+ certification)
+* **Networking:** TCP/IP, DNS, DHCP, Firewalls, VPNs
 * **Scripting:** PowerShell, Bash, Python
 * **Troubleshooting:** Hardware, Software, Network connectivity
-* **Security:** Antivirus, Firewalls, Intrusion Detection (Implied from your CompTIA Security+ and Microsoft Security certifications)
-* **Other:** ServiceNow, Jira, SQL, Virtualization (Potentially, depending on your experience with these)
+* **Security:** Antivirus, Firewalls, Intrusion Detection
+* **Other:** ServiceNow, Jira, SQL, Virtualization
 * **Soft Skills:** Communication, Empathy, Active Listening, Teamwork, Problem-solving
 
 ## Certifications
