@@ -22,6 +22,7 @@ TBD
 
 ## Certifications
 
+* **Cisco Certified Network Associate (In progress)**
 * CompTIA A+
 * CompTIA Network+
 * CompTIA Security+
@@ -30,7 +31,6 @@ TBD
 * Microsoft Certified: Security, Compliance, and Identity Fundamentals
 * AWS Certified Cloud Practitioner
 * Google Cloud Digital Leader
-* **Cisco Certified Network Associate (In progress)**
 
 ## Contact
 
