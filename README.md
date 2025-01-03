@@ -4,6 +4,10 @@
 
 On my GitHub profile, you'll find a collection of my personal projects, scripts, and documentation that showcase my skills and experience in the IT field. 🚀 I'm always looking to connect with other IT professionals and learn from others. Feel free to reach out! 🤝
 
+## Projects
+
+TBD
+
 ## Skills
 
 * **Operating Systems:** Windows 10/11, Windows Server, macOS, Linux
@@ -15,14 +19,6 @@ On my GitHub profile, you'll find a collection of my personal projects, scripts,
 * **Security:** Antivirus, Firewalls, Intrusion Detection (Implied from your CompTIA Security+ and Microsoft Security certifications)
 * **Other:** ServiceNow, Jira, SQL, Virtualization (Potentially, depending on your experience with these)
 * **Soft Skills:** Communication, Empathy, Active Listening, Teamwork, Problem-solving
-
-## Projects
-
-TBD
-
-## Learning Resources
-
-[Share any helpful learning resources that you've found valuable. This could include links to tutorials, courses, or documentation.]
 
 ## Certifications
 
