@@ -4,11 +4,11 @@
 
 On my GitHub profile, you'll find a collection of my personal projects, scripts, and documentation that showcase my skills and experience in the IT field. 🚀 I'm always looking to connect with other IT professionals and learn from others. Feel free to reach out! 🤝
 
-## Projects 📂
+## 📂 Projects 
 
 🚧 TBD 🚧
 
-## Skills 🧰
+## 🧰 Skills 
 
 * **Operating Systems:** Windows 10/11, Windows Server, macOS, Linux
 * **Cloud Computing:** AWS, Azure, GCP
@@ -19,7 +19,7 @@ On my GitHub profile, you'll find a collection of my personal projects, scripts,
 * **Other:** ServiceNow, Jira, SQL, Virtualization
 * **Soft Skills:** Communication, Empathy, Active Listening, Teamwork, Problem-solving
 
-## Certifications 🏅
+## 🏅 Certifications 
 
 * **Cisco Certified Network Associate (In progress)**
 * CompTIA A+
@@ -31,7 +31,7 @@ On my GitHub profile, you'll find a collection of my personal projects, scripts,
 * AWS Certified Cloud Practitioner
 * Google Cloud Digital Leader
 
-## Contact 📞
+## 📞 Contact 
 
 * Blog: [dleontev.com](https://dleontev.com)
 * LinkedIn: [linkedin.com/in/dleontev](https://www.linkedin.com/in/dleontev) 
