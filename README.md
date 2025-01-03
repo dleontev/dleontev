@@ -12,7 +12,7 @@ TBD
 
 * **Operating Systems:** Windows 10/11, Windows Server, macOS, Linux
 * **Cloud Computing:** AWS, Azure, GCP
-* **Microsoft Technologies:** Active Directory, Microsoft 365, Entra ID/Azure AD, Microsoft Office Suite, SharePoint, Teams
+* **Microsoft Technologies:** Active Directory, Microsoft 365, Entra ID, Microsoft Office Suite, SharePoint, Teams
 * **Networking:** TCP/IP, DNS, DHCP, Firewalls, VPNs
 * **Scripting:** PowerShell, Bash, Python
 * **Troubleshooting:** Hardware, Software, Network connectivity
