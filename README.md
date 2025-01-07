@@ -10,7 +10,7 @@ On my GitHub profile, you'll find a collection of my personal projects, scripts,
 
 ## 🧰 Skills 
 
-* **Operating Systems:** Windows 10/11, Windows Server, macOS, Linux
+* **Operating Systems:** Windows 10/11, Windows Server, Linux
 * **Cloud Computing:** AWS, Azure, GCP
 * **Microsoft Technologies:** Active Directory, Microsoft 365, Entra ID, Microsoft Office Suite, SharePoint, Teams
 * **Networking:** TCP/IP, DNS, DHCP, Firewalls, VPNs
