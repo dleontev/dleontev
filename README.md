@@ -34,7 +34,7 @@ On my GitHub profile, you'll find a collection of my personal projects, scripts,
 
 * Blog: [dleontev.com](https://dleontev.com)
 * LinkedIn: [linkedin.com/in/dleontev](https://www.linkedin.com/in/dleontev) 
-* Email: [info@dleontev.com](mailto:info@dleontev.com) 
+* Email: info [@] dleontev.com
 
 Let's Connect!
 
