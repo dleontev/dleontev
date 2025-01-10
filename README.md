@@ -4,7 +4,7 @@
 
 On my GitHub profile, you'll find a collection of my personal projects, scripts, and documentation that showcase my skills and experience in the IT field. 🚀 I'm always looking to connect with other IT professionals and learn from others. Feel free to reach out! 🤝
 
-## 📂 Projects 
+## ⚙️ Projects 
 
 🚧 Stay Tuned! 🚧 
 
