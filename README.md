@@ -20,7 +20,7 @@ On my GitHub profile, you'll find a collection of my personal projects, scripts,
 
 ## 🎯 Certifications 
 
-* **Cisco Certified Network Associate (In progress)**
+* Cisco Certified Network Associate
 * CompTIA A+
 * CompTIA Network+
 * CompTIA Security+
