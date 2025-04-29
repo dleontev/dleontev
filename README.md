@@ -24,6 +24,7 @@ On my GitHub profile, you'll find a collection of my personal projects, scripts,
 * CompTIA A+
 * CompTIA Network+
 * CompTIA Security+
+* CompTIA Linux+ (in progress)
 * Microsoft Certified: Azure Fundamentals
 * Microsoft 365 Certified: Fundamentals
 * Microsoft Certified: Security, Compliance, and Identity Fundamentals
