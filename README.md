@@ -20,16 +20,22 @@ On my GitHub profile, you'll find a collection of my personal projects, scripts,
 
 ## 🎯 Certifications 
 
-* Cisco Certified Network Associate
-* CompTIA A+
-* CompTIA Network+
-* CompTIA Security+
-* Microsoft 365 Certified: Endpoint Administrator Associate
-* Microsoft 365 Certified: Fundamentals
-* Microsoft Certified: Azure Fundamentals
-* Microsoft Certified: Security, Compliance, and Identity Fundamentals
-* AWS Certified Cloud Practitioner
-* Google Cloud Digital Leader
+**Microsoft 365, Identity & Security**
+- Microsoft 365 Certified: Administrator Expert
+- Microsoft 365 Certified: Endpoint Administrator Associate
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals
+- Microsoft 365 Certified: Fundamentals
+- Microsoft Certified: Azure Fundamentals
+
+**Networking & Core IT**
+- Cisco Certified Network Associate (CCNA)
+- CompTIA Security+
+- CompTIA Network+
+- CompTIA A+
+
+**Cloud Fundamentals**
+- AWS Certified Cloud Practitioner
+- Google Cloud Digital Leader
 
 ## 📧 Contact 
 
