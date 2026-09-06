@@ -1,33 +1,39 @@
-# Dimitriy Leontev - IT Professional
+# Dimitriy Leontev | Microsoft 365, Systems & Cloud
 
-👋 Hello! I'm Dimitriy, an IT professional with a passion for technology and a drive to continuously learn and improve. 💻
+I'm a Network Administrator focused on Microsoft 365, identity, systems, infrastructure, and secure cloud operations.
 
-On my GitHub profile, you'll find a collection of my personal projects, scripts, and documentation that showcase my skills and experience in the IT field. 🚀 
+My work spans Microsoft 365 administration, Microsoft Entra ID, Windows systems, networking, security, governance, automation, troubleshooting, and documentation in a public-sector IT environment.
 
-I'm always looking to connect with other IT professionals and learn from others. Feel free to reach out! 🤝
+## 🛠️ Core Focus
 
-## ⚙️ Projects 
+- **Microsoft 365:** Exchange Online, SharePoint Online, Microsoft Teams
+- **Identity:** Microsoft Entra ID, Active Directory, Hybrid Identity, MFA, Conditional Access
+- **Security:** Microsoft Defender, Identity Security, Least Privilege, Zero Trust
+- **Compliance & Governance:** Microsoft Purview, Data Classification, Retention, Sensitivity Labels
+- **Systems & Endpoint:** Windows 10/11, Windows Server, Group Policy, Microsoft Intune, Patch Management
+- **Networking:** TCP/IP, DNS, DHCP, Routing, Switching, Firewalls, Wireless
+- **Automation:** PowerShell, Power Automate
+- **Cloud:** Microsoft Azure; foundational knowledge of AWS and Google Cloud
+- **IT Operations:** Troubleshooting, Documentation, SOPs, Process Improvement
 
-🚧 Stay Tuned! 🚧 
+## ⚙️ Featured Work
 
-## 🛠️ Skills 
+- [Microsoft Entra Sign-In Troubleshooting Framework](https://dleontev.com/projects/entra-sign-in-troubleshooting-framework/)
+- [Building a Practical Microsoft Entra Sign-In Troubleshooting Framework](https://dleontev.com/blog/entra-sign-in-troubleshooting-framework/)
+- [Building a Practical Microsoft 365 Service Ownership Framework](https://dleontev.com/blog/microsoft-365-service-ownership-framework/)
+- [Projects](https://dleontev.com/projects/) and [Blog](https://dleontev.com/blog/)
 
-* **Operating Systems:** Windows 10/11, Windows Server, Linux
-* **Cloud Computing:** AWS, Azure, GCP
-* **Microsoft Technologies:** Active Directory, Microsoft 365, Entra ID, Microsoft Office Suite, SharePoint, Teams
-* **Networking:** TCP/IP, DNS, DHCP, OSI Model
-* **Scripting:** PowerShell, Bash, Python
-* **Troubleshooting:** Hardware, Software, Network Connectivity
-* **Soft Skills:** Communication, Empathy, Active Listening, Teamwork, Problem-solving
+Public examples are intentionally sanitized and use lab or generalized data where appropriate.
 
-## 🎯 Certifications 
+## 🎯 Certifications
 
 **Microsoft 365, Identity & Security**
 - Microsoft 365 Certified: Administrator Expert
+- Microsoft 365 Certified: Teams Administrator Associate
 - Microsoft 365 Certified: Endpoint Administrator Associate
-- Microsoft Certified: Security, Compliance, and Identity Fundamentals
-- Microsoft 365 Certified: Fundamentals
-- Microsoft Certified: Azure Fundamentals
+- Microsoft Security, Compliance, and Identity Fundamentals
+- Microsoft 365 Fundamentals
+- Microsoft Azure Fundamentals
 
 **Networking & Core IT**
 - Cisco Certified Network Associate (CCNA)
@@ -35,29 +41,12 @@ I'm always looking to connect with other IT professionals and learn from others.
 - CompTIA Network+
 - CompTIA A+
 
-**Cloud Fundamentals**
+**Cloud**
 - AWS Certified Cloud Practitioner
 - Google Cloud Digital Leader
 
-## 📧 Contact 
+## 📫 Contact
 
-* Blog: [dleontev.com](https://dleontev.com)
-* LinkedIn: [linkedin.com/in/dleontev](https://www.linkedin.com/in/dleontev) 
-* Email: info [@] dleontev.com
-
-Let's Connect!
-
-<!--
-**dleontev/dleontev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Website: [dleontev.com](https://dleontev.com)
+- LinkedIn: [linkedin.com/in/dleontev](https://www.linkedin.com/in/dleontev)
+- Email: info [@] dleontev.com
