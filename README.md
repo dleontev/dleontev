@@ -44,6 +44,7 @@ Public examples are intentionally sanitized and use lab or generalized data wher
 **Cloud**
 - AWS Certified Cloud Practitioner
 - Google Cloud Digital Leader
+- [Google Cloud Generative AI Leader](https://www.credly.com/badges/759c4516-42bd-4ffa-b1a8-20e3e779f86b/public_url)
 
 ## 📫 Contact
 
