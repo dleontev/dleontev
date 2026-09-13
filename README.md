@@ -28,23 +28,23 @@ Public examples are intentionally sanitized and use lab or generalized data wher
 ## 🎯 Certifications
 
 **Microsoft 365, Identity & Security**
-- Microsoft 365 Certified: Administrator Expert
-- Microsoft 365 Certified: Teams Administrator Associate
-- Microsoft 365 Certified: Endpoint Administrator Associate
-- Microsoft Security, Compliance, and Identity Fundamentals
-- Microsoft 365 Fundamentals
-- Microsoft Azure Fundamentals
+- [Microsoft 365 Certified: Administrator Expert](https://learn.microsoft.com/en-us/users/dimitriyleontev/credentials/49fb98cf655f629)
+- [Microsoft 365 Certified: Teams Administrator Associate](https://learn.microsoft.com/en-us/users/dimitriyleontev/credentials/864d90ddbfffec51)
+- [Microsoft 365 Certified: Endpoint Administrator Associate](https://learn.microsoft.com/en-us/users/dimitriyleontev/credentials/d7f8b77b20b61a5c)
+- [Microsoft Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/en-us/users/dimitriyleontev/credentials/1bb266e7dcef2d20)
+- [Microsoft 365 Fundamentals](https://learn.microsoft.com/en-us/users/dimitriyleontev/credentials/7967d0ab0c7e1557)
+- [Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/users/dimitriyleontev/credentials/9150e0cacb9d0869)
 
 **Networking & Core IT**
-- Cisco Certified Network Associate (CCNA)
-- CompTIA Security+
-- CompTIA Network+
-- CompTIA A+
+- [Cisco Certified Network Associate (CCNA)](https://www.credly.com/badges/7948539b-0785-478c-8df6-93e947a60ae4)
+- [CompTIA Security+](https://www.credly.com/badges/11390095-d07c-4f73-bfaf-44ccd1e0bc1d)
+- [CompTIA Network+](https://www.credly.com/badges/9ef471d6-2121-43c0-9e72-9d1b65cdbf0a)
+- [CompTIA A+](https://www.credly.com/badges/07f11345-02fb-4741-84de-7986b1376efb)
 
 **Cloud**
-- AWS Certified Cloud Practitioner
-- Google Cloud Digital Leader
-- [Google Cloud Generative AI Leader](https://www.credly.com/badges/759c4516-42bd-4ffa-b1a8-20e3e779f86b/public_url)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/dcd09eaf-4bc2-4586-ba00-963f23995a7b)
+- [Google Cloud Digital Leader](https://www.credly.com/badges/01e02437-e84f-4a13-bbf8-f2892be18cda)
+- [Google Cloud Generative AI Leader](https://www.credly.com/badges/759c4516-42bd-4ffa-b1a8-20e3e779f86b)
 
 ## 📫 Contact
 
