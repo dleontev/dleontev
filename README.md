@@ -19,8 +19,8 @@ My work spans Microsoft 365 administration, Microsoft Entra ID, Windows systems,
 ## ⚙️ Featured Work
 
 - [Microsoft Entra Sign-In Troubleshooting Framework](https://dleontev.com/projects/entra-sign-in-troubleshooting-framework/)
-- [Building a Practical Microsoft Entra Sign-In Troubleshooting Framework](https://dleontev.com/blog/entra-sign-in-troubleshooting-framework/)
-- [Building a Practical Microsoft 365 Service Ownership Framework](https://dleontev.com/blog/microsoft-365-service-ownership-framework/)
+- [Building a Practical Microsoft Entra Sign-In Troubleshooting Framework](https://dleontev.com/blog/entra-sign-in-troubleshooting-framework)
+- [Building a Practical Microsoft 365 Service Ownership Framework](https://dleontev.com/blog/microsoft-365-service-ownership-framework)
 - [Projects](https://dleontev.com/projects/) and [Blog](https://dleontev.com/blog/)
 
 Public examples are intentionally sanitized and use lab or generalized data where appropriate.
