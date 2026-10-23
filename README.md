@@ -1,6 +1,6 @@
-# Dimitriy Leontev | Microsoft 365, Systems & Cloud
+# Dimitriy Leontev | Network and Systems Administrator
 
-I'm a Network Administrator focused on Microsoft 365, identity, systems, infrastructure, and secure cloud operations.
+I'm a Network and Systems Administrator focused on Microsoft 365, identity, systems, infrastructure, and secure cloud operations.
 
 My work spans Microsoft 365 administration, Microsoft Entra ID, Windows systems, networking, security, governance, automation, troubleshooting, and documentation in a public-sector IT environment.
 
