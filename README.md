@@ -18,6 +18,8 @@ My work spans Microsoft 365 administration, Microsoft Entra ID, Windows systems,
 
 ## ⚙️ Featured Work
 
+- [Pomodoro Timer: Controlled Releases on Azure](https://dleontev.com/projects/pomodoro-timer/)
+- [Where Did the Email Go? Troubleshooting Exchange Online with Message Trace](https://dleontev.com/blog/where-did-the-email-go-troubleshooting-exchange-online-with-message-trace)
 - [Microsoft Entra Sign-In Troubleshooting Framework](https://dleontev.com/projects/entra-sign-in-troubleshooting-framework/)
 - [Building a Practical Microsoft Entra Sign-In Troubleshooting Framework](https://dleontev.com/blog/entra-sign-in-troubleshooting-framework)
 - [Building a Practical Microsoft 365 Service Ownership Framework](https://dleontev.com/blog/microsoft-365-service-ownership-framework)
