@@ -12,7 +12,7 @@ My personal projects explore release automation, verification, and recovery plan
 
 ## ⚙️ Featured Work
 
-- [DNS or Connectivity? A Practical Troubleshooting Workflow](https://dleontev.com/blog/dns-or-connectivity-troubleshooting)
+- [DNS or Connectivity? How to Triage an Unreachable Service](https://dleontev.com/blog/dns-or-connectivity-troubleshooting)
 - [Microsoft Entra Sign-In Troubleshooting Framework](https://dleontev.com/projects/entra-sign-in-troubleshooting-framework/)
 - [Pomodoro Timer: Controlled Releases on Azure](https://dleontev.com/projects/pomodoro-timer/)
 - [Where Did the Email Go? Troubleshooting Exchange Online with Message Trace](https://dleontev.com/blog/where-did-the-email-go-troubleshooting-exchange-online-with-message-trace)
