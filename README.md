@@ -1,31 +1,25 @@
-# Dimitriy Leontev | Network and Systems Administrator
+# Dimitriy Leontev | Systems and Network Administrator
 
-I'm a Network and Systems Administrator focused on Microsoft 365, identity, systems, infrastructure, and secure cloud operations.
+I'm a Network Administrator in public-sector IT. I started in frontline support, including a role as an IT Support Specialist. Today I troubleshoot across networks, servers, cloud services, and endpoints, and use PowerShell to automate repeatable work.
 
-My work spans Microsoft 365 administration, Microsoft Entra ID, Windows systems, networking, security, governance, automation, troubleshooting, and documentation in a public-sector IT environment.
+My work spans Windows Server and Ubuntu Linux, Cisco switching and SonicWall firewalls, Azure, and Microsoft 365 administration. That includes Exchange Online, Teams, Microsoft Entra ID, Microsoft Defender, and Microsoft Purview. [Technical skills and experience](https://dleontev.com/about/#what-i-work-on)
 
-## 🛠️ Core Focus
+## Education and interests
 
-- **Microsoft 365:** Exchange Online, SharePoint Online, Microsoft Teams
-- **Identity:** Microsoft Entra ID, Active Directory, Hybrid Identity, MFA, Conditional Access
-- **Security:** Microsoft Defender, Identity Security, Least Privilege, Zero Trust
-- **Compliance & Governance:** Microsoft Purview, Data Classification, Retention, Sensitivity Labels
-- **Systems & Endpoint:** Windows 10/11, Windows Server, Group Policy, Microsoft Intune, Patch Management
-- **Networking:** TCP/IP, DNS, DHCP, Routing, Switching, Firewalls, Wireless
-- **Automation:** PowerShell, Power Automate
-- **Cloud:** Microsoft Azure; foundational knowledge of AWS and Google Cloud
-- **IT Operations:** Troubleshooting, Documentation, SOPs, Process Improvement
+I earned my computer science degree at the University of Washington Bothell, where I'm now pursuing a Master of Science in Computer Science & Software Engineering. I'm also working toward additional professional certifications.
+
+My personal projects explore release automation, verification, and recovery planning.
 
 ## ⚙️ Featured Work
 
+- [DNS or Connectivity? A Practical Troubleshooting Workflow](https://dleontev.com/blog/dns-or-connectivity-troubleshooting)
+- [Microsoft Entra Sign-In Troubleshooting Framework](https://dleontev.com/projects/entra-sign-in-troubleshooting-framework/)
 - [Pomodoro Timer: Controlled Releases on Azure](https://dleontev.com/projects/pomodoro-timer/)
 - [Where Did the Email Go? Troubleshooting Exchange Online with Message Trace](https://dleontev.com/blog/where-did-the-email-go-troubleshooting-exchange-online-with-message-trace)
-- [Microsoft Entra Sign-In Troubleshooting Framework](https://dleontev.com/projects/entra-sign-in-troubleshooting-framework/)
 - [Building a Practical Microsoft Entra Sign-In Troubleshooting Framework](https://dleontev.com/blog/entra-sign-in-troubleshooting-framework)
 - [Building a Practical Microsoft 365 Service Ownership Framework](https://dleontev.com/blog/microsoft-365-service-ownership-framework)
-- [Projects](https://dleontev.com/projects/) and [Blog](https://dleontev.com/blog/)
 
-Public examples are intentionally sanitized and use lab or generalized data where appropriate.
+My public examples use personal, lab, or sanitized data. [All projects](https://dleontev.com/projects/) · [All technical articles](https://dleontev.com/blog/)
 
 ## 🎯 Certifications
 
